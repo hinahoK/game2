@@ -1,0 +1,17 @@
+C:\Users\nappo\ClickBuster\ClickBuster\bin\Debug\net8.0-windows\ClickBuster.exe
+C:\Users\nappo\ClickBuster\ClickBuster\bin\Debug\net8.0-windows\ClickBuster.deps.json
+C:\Users\nappo\ClickBuster\ClickBuster\bin\Debug\net8.0-windows\ClickBuster.runtimeconfig.json
+C:\Users\nappo\ClickBuster\ClickBuster\bin\Debug\net8.0-windows\ClickBuster.dll
+C:\Users\nappo\ClickBuster\ClickBuster\bin\Debug\net8.0-windows\ClickBuster.pdb
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.csproj.GenerateResource.cache
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.AssemblyInfoInputs.cache
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.AssemblyInfo.cs
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.csproj.CoreCompileInputs.cache
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.dll
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\refint\ClickBuster.dll
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.pdb
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.genruntimeconfig.cache
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ref\ClickBuster.dll
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.Form1.resources
+C:\Users\nappo\ClickBuster\ClickBuster\obj\Debug\net8.0-windows\ClickBuster.Form2.resources
